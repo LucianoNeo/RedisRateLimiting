@@ -1,0 +1,6 @@
+@poc.ratelimiter.api_HostAddress = http://localhost:5269
+
+GET {{poc.ratelimiter.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
